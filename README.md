@@ -8,6 +8,6 @@ execution:
 - Do 'node script.js'
 
 output:
-console.log output 
-line 1: end position in format x,y
+console.log output  
+line 1: end position in format x,y  
 line 2: number of dirt patches cleaned
